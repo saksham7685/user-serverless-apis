@@ -1,2 +1,7 @@
 # user-serverless-apis
-User APIs using Lambda, expose via api-gateway (Terraform as IAC)
+## Technology stack: 
+### Lambda, 
+### Dynamo DB
+### API Gateway
+### Terraforam as IAC 
+
